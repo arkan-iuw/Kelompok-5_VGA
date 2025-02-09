@@ -4,7 +4,7 @@
 VGA (Video Graphics Array) adalah salah satu standar grafis yang pertama kali diperkenalkan oleh IBM pada tahun 1987. VGA telah menjadi landasan untuk perkembangan tampilan grafis komputer selama beberapa dekade. Berikut adalah sejarah perkembangan VGA:
 # 1.	Awal Mula: VGA dan IBM (1987)
 
- 
+
 
 •	Pada tahun 1987, IBM meluncurkan kartu grafis VGA yang pertama, yang dirancang untuk komputer pribadi (PC). VGA memiliki kemampuan untuk menampilkan resolusi 640x480 piksel dengan kedalaman warna 16 warna.
 
