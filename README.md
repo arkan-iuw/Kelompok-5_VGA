@@ -1,4 +1,12 @@
 # Kelompok 5_VGA
+ - Dinda Az-zahra Anggraini (09011382429161)
+ - Muhammad Arkan Satria (09011382429165)
+ - K.Alief Putra Pratama Winata (09011382429167)
+ - Muhammad Rafa Alparis (09011382429171)
+ - Arman Hanif (09011382429173)
+ - M Adhin Ramadhan (09011382429175)
+ - Muhammad Hanif (09011382429163)
+
 ## Perkembangan VGA dari masa ke masa
 # Pengertian VGA
 VGA (Video Graphics Array) adalah salah satu standar grafis yang pertama kali diperkenalkan oleh IBM pada tahun 1987. VGA telah menjadi landasan untuk perkembangan tampilan grafis komputer selama beberapa dekade. Berikut adalah sejarah perkembangan VGA:
